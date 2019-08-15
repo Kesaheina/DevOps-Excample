@@ -1,0 +1,3 @@
+Ekarivi omatest.
+Tokarivi notepadissa.eka ja kolmasrivi kirjotettiin siis powershellissä
+Kolmasrivi siis ei ollutkaan kolmasrivi vaikka se kirjotettiin powerissa
